@@ -1,6 +1,9 @@
 .navbar{
-    width: 75%;
-    height: 25%;
+    width: 85%;
+    height: 55%;
     background-color: bisque;
+    margin-left: 7%;
+    margin-top: 0.5cm;
+    border-radius: 5cm;
     
 }
