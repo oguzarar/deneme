@@ -1,14 +1,13 @@
 #navbar{
     
-    background-color: orange;
+    background-color: #91fbef;
     margin-top: 0.5cm;
     border-radius: 5cm;
-    
-    
-    
+
 }
-.icerik>h4{
-    display: inline;
-    font-weight: 750;
-    margin-left: 0.5cm;
+.navbar-brand{
+    margin-left: 2%;
+}
+.navbar-nav{
+    margin-left: 7%;
 }
