@@ -5,13 +5,20 @@
 }
 #navbar{
     background-color: #f8ffd6;
-    
-   
+}
+.dropdown-menu{
+    background-color: #f8ffd6;
 }
 .navbar-brand{
     margin-left: 6%;
 }
 .navbar-nav{
+    margin-left: 7%;
+    font-weight: 900;
+    color: black;
+    
+}
+.dropdown-item{
     margin-left: 7%;
     font-weight: 900;
     color: black;
@@ -153,4 +160,19 @@ hr{
     text-align: center;
     font-size: 60px;
     margin-top: 3%;
+}
+.carousel-inner{
+    text-align: center;
+    width: 25%;
+    height: 10%;
+}
+.carousel-item P{
+    font-size: 25px;
+    font-weight: bolder;
+}
+.slidersMain{
+    margin-left: 40%;
+    
+    margin-bottom: 3%;
+
 }
