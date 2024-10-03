@@ -163,16 +163,18 @@ hr{
 }
 .carousel-inner{
     text-align: center;
-    width: 25%;
-    height: 10%;
+   
 }
-.carousel-item P{
+.carousel-item p{
     font-size: 25px;
     font-weight: bolder;
+    color: white;
+    background-color: black;
+    
+    
+    
 }
 .slidersMain{
-    margin-left: 40%;
-    
     margin-bottom: 3%;
-
 }
+
