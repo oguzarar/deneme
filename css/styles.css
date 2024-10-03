@@ -39,15 +39,21 @@
     margin-left: 10%;
     display: inline-block;
     
+    
+    
 }
 .footerCopy{
     color: white;
     text-align: center;
     font-weight: 500;
+    font-family: serif;
 }
 
 hr{
-    border-top: black solid;
+    border-top: rgb(75, 74, 74) solid;
     width: 85%;
     margin-left: 8%;
+}
+.footerContact i span{
+    font-family: serif;
 }
