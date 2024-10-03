@@ -23,8 +23,10 @@
 .footerMain{
     width: 100%;
     bottom: 0px;
-    position: absolute;
+    position:relative;
     background-color: #282a35;
+    margin-bottom: -2%;
+    
 }
 .footerLink{
     color: white;
@@ -48,6 +50,7 @@
     text-align: center;
     font-weight: 500;
     font-family: serif;
+    
 }
 
 hr{
@@ -57,4 +60,23 @@ hr{
 }
 .footerContact i span{
     font-family: serif;
+}
+
+.brands_title{
+    text-align: center;
+    margin-top: 1%;
+}
+.brands_title h1{
+    font-weight:bolder;
+    font-size:60px;
+
+}
+.brandsImg img{
+    
+    border-radius: 20%;
+    border: solid;
+    border-color: black;
+    margin-left: 9%;
+    margin-bottom: 2%;
+    
 }
