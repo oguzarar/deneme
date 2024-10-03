@@ -128,3 +128,29 @@ hr{
     margin-right: 5%;
     margin-bottom: 3%;
 }
+.conTitle h1{
+    text-align: center;
+    font-size: 60px;
+    margin-top: 3%;
+}
+.conInfo i span{
+    text-align: center;
+}
+.teamImg img{
+    width: 100%;
+}
+.teamCards{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
+.card-deck{
+    margin-top: 5%;
+    
+}
+.teamTitle h1{
+    text-align: center;
+    font-size: 60px;
+    margin-top: 3%;
+}
