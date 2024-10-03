@@ -28,15 +28,16 @@
 }
 .footerLink{
     color: white;
-    margin-left: 15%;
+    margin-left: 10%;
     display: inline-block;
+    margin-top: 2%;
 }
 .footerLink ul{
     list-style-type: none;
 }
 .footerContact{
     color: white;
-    margin-left: 10%;
+    margin-left: 15%;
     display: inline-block;
     
     
@@ -56,4 +57,9 @@ hr{
 }
 .footerContact i span{
     font-family: serif;
+}
+.footerImg{
+    width: 20%;
+    margin-top: -8%;
+    margin-left: 4%;
 }
