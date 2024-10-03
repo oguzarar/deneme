@@ -19,15 +19,35 @@
 .nav-link{
     color: black;
 }
-footer{
-    background-color: #282a35;
-}
+
 .footerMain{
     width: 100%;
     bottom: 0px;
     position: absolute;
+    background-color: #282a35;
+}
+.footerLink{
+    color: white;
+    margin-left: 15%;
+    display: inline-block;
+}
+.footerLink ul{
+    list-style-type: none;
+}
+.footerContact{
+    color: white;
+    margin-left: 10%;
+    display: inline-block;
     
-    background-color: black;
-   
-    
+}
+.footerCopy{
+    color: white;
+    text-align: center;
+    font-weight: 500;
+}
+
+hr{
+    border-top: black solid;
+    width: 85%;
+    margin-left: 8%;
 }
